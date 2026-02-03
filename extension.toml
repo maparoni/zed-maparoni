@@ -7,8 +7,8 @@ description = "Formaggio pipeline language and Maparoni expression language supp
 
 [grammars.formaggio]
 repository = "file:///Users/adrian/Development/tree-sitter-formaggio"
-rev = "09855a1b09dcb14389e13d370db9a3e9c7ee50c0"
+rev = "1614f1be73327bf800fdfe3682ceab25488d6218"
 
 [grammars.maparoni]
 repository = "file:///Users/adrian/Development/tree-sitter-maparoni"
-rev = "5ac59d4fc6835bf59b6dd9d3e9ed78d0c9025b39"
+rev = "c30d5341bd820c26c31bdf7517792ca059b1542b"

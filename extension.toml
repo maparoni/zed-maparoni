@@ -1,0 +1,14 @@
+id = "maparoni"
+name = "Maparoni"
+version = "0.1.0"
+schema_version = 1
+authors = ["Adrian Schoenig"]
+description = "Formaggio pipeline language and Maparoni expression language support for Zed"
+
+[grammars.formaggio]
+repository = "file:///Users/adrian/Development/tree-sitter-formaggio"
+rev = "4ecaabcfb3e2b1d5591202bb9a5d5a6de0695f06"
+
+[grammars.maparoni]
+repository = "file:///Users/adrian/Development/tree-sitter-maparoni"
+rev = "5ac59d4fc6835bf59b6dd9d3e9ed78d0c9025b39"

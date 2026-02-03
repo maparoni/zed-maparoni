@@ -1,0 +1,4 @@
+name = "Maparoni"
+grammar = "maparoni"
+path_suffixes = ["mpex"]
+tab_size = 2

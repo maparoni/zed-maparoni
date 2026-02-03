@@ -1,0 +1,5 @@
+name = "Formaggio"
+grammar = "formaggio"
+path_suffixes = ["formaggio"]
+line_comments = ["# "]
+tab_size = 2

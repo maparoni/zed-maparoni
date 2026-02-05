@@ -11,4 +11,4 @@ rev = "1614f1be73327bf800fdfe3682ceab25488d6218"
 
 [grammars.maparoni]
 repository = "https://github.com/maparoni/tree-sitter-maparoni"
-rev = "c30d5341bd820c26c31bdf7517792ca059b1542b"
+rev = "e1c460116e08c54999869603157b76999746da8c"
